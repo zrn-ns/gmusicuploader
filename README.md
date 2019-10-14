@@ -1,0 +1,2 @@
+# gmusicuploader
+Google Play Musicにコンソールからアップロードするためのスクリプト
